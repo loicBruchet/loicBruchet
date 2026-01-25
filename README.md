@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Salut, moi c'est Loïc Bruchet
+# 👋 Bonjour, bienvenue sur ma page Portfollio
 
 🎮 Développeur C++  
 🎓 Étudiant en 2ème année  
@@ -10,6 +8,7 @@
 - 🧱 Casse-brique ECS (C++ / SFML)
 - 🧩 Labyrinthe avec A*
 - 🎮 Autres projets personnels
+- :earth_africa:
 
 ## 🛠️ Compétences
 
@@ -18,3 +17,5 @@
 - Algorithmie
 - Git
 - Visual Studio
+- Pathfinding A*
+- 
