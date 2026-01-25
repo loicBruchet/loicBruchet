@@ -5,10 +5,15 @@
 
 ## 🚀 Projets
 
-- 🧱 Casse-brique ECS (C++ / SFML)
-- 🧩 Labyrinthe avec A*
-- 🎮 Autres projets personnels
-- :earth_africa:
+- 🏃‍♂️ Runner
+  
+- 🔫 Areana Shooter
+  
+- 🧩 Pathfinding avec A*
+  
+- 🌍 multijoueur
+  
+- 🎮 Projet personnel
 
 ## 🛠️ Compétences
 
@@ -17,5 +22,4 @@
 - Algorithmie
 - Git
 - Visual Studio
-- Pathfinding A*
-- 
+- A*
