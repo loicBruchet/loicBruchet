@@ -9,9 +9,9 @@
 
 ## 🚀 Projets
 
-- 🏃‍♂️ Runner : [(https://github.com/loicBruchet/Runner.git)]
+- 🏃‍♂️ Runner : [https://github.com/loicBruchet/Runner.git]
   
-- 🔫 Areana Shooter [https://github.com/loicBruchet/ArenaShooter.git]
+- 🔫 Areana Shooter https://github.com/loicBruchet/ArenaShooter.git
   
 - 🧩 Pathfinding avec A*
   
