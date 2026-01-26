@@ -1,13 +1,17 @@
 # 👋 Bonjour, bienvenue sur ma page Portfollio
 
+## ⁉️ Qui suis-je ?
+
+### Je m'appelle Loïc Bruchet, j'ai 19 ans
 🎮 Développeur C++  
-🎓 Étudiant en 2ème année  
+
+🎓 Étudiant en 2ème année
 
 ## 🚀 Projets
 
-- 🏃‍♂️ Runner
+- 🏃‍♂️ Runner : [(https://github.com/loicBruchet/Runner.git)]
   
-- 🔫 Areana Shooter
+- 🔫 Areana Shooter [https://github.com/loicBruchet/ArenaShooter.git]
   
 - 🧩 Pathfinding avec A*
   
@@ -19,7 +23,6 @@
 
 - C++
 - SFML
-- Algorithmie
 - Git
 - Visual Studio
 - A*
