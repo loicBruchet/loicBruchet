@@ -2,22 +2,23 @@
 
 ## ⁉️ Qui suis-je ?
 
-### Je m'appelle Loïc Bruchet, j'ai 19 ans
+### Je m'appelle Loïc Bruchet, j'ai 19 ans et je suis étudiant en programmation de jeu vidéo à Gaming Campus
+
 🎮 Développeur C++  
 
 🎓 Étudiant en 2ème année
 
 ## 🚀 Projets
 
-- 🏃‍♂️ Runner : [https://github.com/loicBruchet/Runner.git]
+- 🏃‍♂️ [Runner](https://github.com/loicBruchet/Runner.git)
   
-- 🔫 Areana Shooter https://github.com/loicBruchet/ArenaShooter.git
+- 🔫 [Areana Shooter](https://github.com/loicBruchet/ArenaShooter.git)
   
-- 🧩 Pathfinding avec A*
+- 🧩 [Pathfinding avec A*](https://github.com/loicBruchet/Pathfinding.git)
   
-- 🌍 multijoueur
+- 🌍 multijoueur (en cours)
   
-- 🎮 Projet personnel
+- 🎮 Projet personnel 
 
 ## 🛠️ Compétences
 
