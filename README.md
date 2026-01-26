@@ -18,7 +18,7 @@
   
 - 🌍 multijoueur (en cours)
   
-- 🎮 Projet personnel 
+- 🎮 [Projet personnel](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
 ## 🛠️ Compétences
 
