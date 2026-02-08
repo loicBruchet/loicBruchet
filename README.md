@@ -36,7 +36,7 @@ Chaque projet (hormis mon projet personnel) sont composés de plusieurs dossiers
   
 - src: contient tout les fichiers .cpp et .h
 
-### ⚠️ Le projet Runner et Arena Shooter ne peuvent pas être lancer en release, 
+### ⚠️ Les projets Runner et Arena Shooter ne peuvent pas être lancer en release 
 
 ## 🛠️ Compétences
 
