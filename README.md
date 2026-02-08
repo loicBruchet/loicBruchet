@@ -16,7 +16,7 @@
   
 - 🧩 [Pathfinding avec A*](https://github.com/loicBruchet/Pathfinding.git)
   
-- 🌍 multijoueur (en cours)
+- 🌍 [multijoueur](https://github.com/loicBruchet/Multijoueur)
   
 - 🎮 [Projet personnel](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
