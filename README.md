@@ -17,8 +17,26 @@
 - 🧩 [Pathfinding avec A*](https://github.com/loicBruchet/Pathfinding.git)
   
 - 🌍 [multijoueur](https://github.com/loicBruchet/Multijoueur)
+
+- 🏭 Moteur (en cours)
+
+- ⁉️ Projet libre (non entammé)
   
 - 🎮 [Projet personnel](https://github.com/loicBruchet/Projet-Personnel/tree/main)
+
+### Comment essayer mes projets ?
+
+Chaque projet (hormis mon projet personnel) sont composés de plusieurs dossiers, voici les plus importants:
+
+- bin: contient le fichier "make.bat" à executer pour avoir accès au dossier ide qui est indispensable
+  
+- ide: contient le fichier sln indispensable pour voir le code et lancer le projet
+  
+- res: contient tout ce qui n'est pas de code
+  
+- src: contient tout les fichiers .cpp et .h
+
+### ⚠️ Le projet Runner et Arena Shooter ne peuvent pas être lancer en release, 
 
 ## 🛠️ Compétences
 
