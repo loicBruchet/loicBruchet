@@ -26,7 +26,9 @@
 
 ### Comment essayer mes projets ?
 
-Chaque projet (hormis mon projet personnel) est composé de plusieurs dossiers, voici les plus importants:
+Chaque projet (hormis mon projet personnel) est composé de plusieurs dossiers. 
+
+Voici les plus importants:
 
 - bin: contient le fichier "make.bat" à executer pour avoir accès au dossier ide qui est indispensable
   
