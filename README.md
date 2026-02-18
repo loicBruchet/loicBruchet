@@ -28,17 +28,17 @@
 
 Chaque projet (hormis mon projet personnel) est composé de plusieurs dossiers. 
 
-Voici les plus importants:
+Voici les plus importants :
 
-- bin: contient le fichier "make.bat" à executer pour avoir accès au dossier ide qui est indispensable
+- bin : contient le fichier "make.bat" à exécuter pour avoir accès au dossier "ide" (indispensable)
   
-- ide: contient le fichier sln indispensable pour voir le code et lancer le projet
+- ide : contient le fichier ".sln" indispensable pour voir le code du projet et le démarrer
   
-- res: contient tout ce qui n'est pas de code
+- res : contient tous les fichiers ne contenant pas de code
   
-- src: contient tout les fichiers .cpp et .h
+- src : contient tous les fichiers contenant du code
 
-### ⚠️ Les projets Runner et Arena Shooter ne peuvent pas être lancer en release 
+### ⚠️ Les projets Runner et Arena Shooter ne peuvent pas être lancés en release 
 
 ## 🛠️ Compétences
 
