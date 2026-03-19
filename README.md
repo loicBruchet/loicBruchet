@@ -22,7 +22,7 @@
 
 - ⁉️ Projet libre (non entammé)
   
-- 🎮 [Projet personnel](https://github.com/loicBruchet/Projet-Personnel/tree/main)
+- 🎮 [Point & Click](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
 ### Comment essayer mes projets ?
 
