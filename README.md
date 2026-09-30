@@ -2,13 +2,13 @@
 
 ## ⁉️ Qui suis-je ?
 
-### Je m'appelle Loïc Bruchet, j'ai 19 ans et je suis étudiant en programmation de jeu vidéo à Gaming Campus
+### Je m'appelle Loïc Bruchet, j'ai 20 ans et je suis étudiant en programmation de jeu vidéo à Gaming Campus
 
-🎮 Développeur C++  
+🎮 Développeur C++ et C# 
 
-🎓 Étudiant en 2ème année
+🎓 Étudiant en 3ème année
 
-## 🚀 Projets
+## 🚀 Projets C++
 
 - 🏃‍♂️ [Runner](https://github.com/loicBruchet/Runner.git)
   
@@ -23,6 +23,7 @@
 - ⁉️ Projet Rogue Like (page en cours)
   
 - 🎮 [Point & Click](https://github.com/loicBruchet/Projet-Personnel/tree/main)
+
 
 ### Comment essayer mes projets ?
 
@@ -40,6 +41,13 @@ Voici les plus importants :
 
 ### ⚠️ Les projets Runner et Arena Shooter ne peuvent pas être lancés en release 
 
+
+## Projets Unity
+
+- Donjon £lda (projet en cours)
+
+
+
 ## 🛠️ Compétences
 
 - C++
@@ -47,3 +55,5 @@ Voici les plus importants :
 - Git
 - Visual Studio
 - A*
+- Unity
+- Trello
