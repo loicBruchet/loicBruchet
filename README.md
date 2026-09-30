@@ -20,7 +20,7 @@
 
 - 🏭 [Moteur](https://github.com/loicBruchet/Moteur)
 
-- ⁉️ Projet libre (non entammé)
+- ⁉️ Projet Rogue Like (page en cours)
   
 - 🎮 [Point & Click](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
