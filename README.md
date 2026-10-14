@@ -46,7 +46,9 @@ Voici les plus importants :
 
 - 🫅 Donjon £lda (page en cours)
 
+## Expérience professionel
 
+- 📸 stage Développeur gameplay (Seccia.dev)
 
 ## 🛠️ Compétences
 
