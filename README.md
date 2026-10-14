@@ -24,6 +24,9 @@
   
 - 🎮 [Point & Click](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
+## ⚙️ Projets Unity
+
+- 🫅Donjon £lda (page en cours
 
 ### Comment essayer mes projets ?
 
@@ -51,6 +54,7 @@ Voici les plus importants :
 ## 🛠️ Compétences
 
 - C++
+- C#
 - SFML
 - Git
 - Visual Studio
