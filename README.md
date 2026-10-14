@@ -24,9 +24,6 @@
   
 - 🎮 [Point & Click](https://github.com/loicBruchet/Projet-Personnel/tree/main)
 
-## ⚙️ Projets Unity
-
-- 🫅Donjon £lda (page en cours
 
 ### Comment essayer mes projets ?
 
@@ -45,9 +42,9 @@ Voici les plus importants :
 ### ⚠️ Les projets Runner et Arena Shooter ne peuvent pas être lancés en release 
 
 
-## Projets Unity
+## ⚙️ Projets Unity
 
-- Donjon £lda (projet en cours)
+- 🫅 Donjon £lda (page en cours)
 
 
 
