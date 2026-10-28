@@ -1,4 +1,4 @@
-# 👋 Bonjour, bienvenue sur ma page Portfollio
+# 👋 Bonjour, bienvenue sur ma page Portfolio
 
 ## ⁉️ Qui suis-je ?
 
